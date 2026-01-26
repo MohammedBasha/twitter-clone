@@ -12,6 +12,7 @@
     "type": "module",
     "license": "ISC",
     "dependencies": {
+        "@tanstack/react-query": "^5.90.20",
         "bcryptjs": "^3.0.3",
         "cloudinary": "^2.9.0",
         "cookie-parser": "^1.4.7",
@@ -22,6 +23,7 @@
         "mongoose": "^9.1.4"
     },
     "devDependencies": {
+        "@tanstack/eslint-plugin-query": "^5.91.3",
         "nodemon": "^3.1.11"
     }
 }
